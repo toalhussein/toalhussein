@@ -57,12 +57,12 @@ I'm a **Student🎓 [@ Beni Suef Technological University 🅾️](https://btu.e
 
 ---
 ### My Stats Activity
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=toalhussein&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=23A9F2&icon_color=FFFFFF&text_color=FFFFFF&bg_color=151515" alt="toalhussein's Github Stats" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=toalhussein&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=23A9F2&icon_color=151515&text_color=151515&bg_color=FFFFFF" alt="toalhussein's Github Stats" /></a>
 
 ---
 
 ### Streak Stats Activity
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=toalhussein&theme=dark&text&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=toalhussein&theme=default&text&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 

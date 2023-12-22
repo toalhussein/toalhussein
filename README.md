@@ -17,24 +17,30 @@ I'm a **Student🎓 [@ Beni Suef Technological University 🅾️](https://btu.e
 
 ---
 ## Who am I
- ```python
- class WhoAmI:
- 	user = 'Al-Hussein AbdulSabour'
-		current_work = 'Student'
-		hobbies = [
-				'Playing Chess',
-				'Reading',
-				'Coding'
-				'Being up all Night chasing that ONE BUG...'
-			]
+ ```dart
+ class WhoAmI {
+  String user = 'Al-Hussein AbdulSabour';
+  String currentWork = 'Student';
+  List<String> hobbies = [
+    'Playing Chess',
+    'Reading',
+    'Coding',
+    'Being up all Night chasing that ONE BUG...',
+  ];
+
+  String getCity() {
+    return 'Aswan, Egypt';
+  }
+
+ void ambitions() {
+  void learnSpanish() {}
+
+  void createUiccApp() {}
+
+  }
+
+}
 	
-	def getCity():
-		return Aswan_Egypt()
-	
-	def Ambitions():
-		LearnSpanish()
-		CreateUiccApp()
-		# Assume 10 more awesome ambitions here  ;)
 	
  ```
 ### ⚙️ Some Tool and Tech I use

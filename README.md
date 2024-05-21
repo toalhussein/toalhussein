@@ -46,32 +46,47 @@ I'm a **Student🎓 [@ Beni Suef Technological University 🅾️](https://btu.e
 	
 	
  ```
-### ⚙️ Some Tool and Tech I use
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-3178C6?logo=flutter&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/Php-3776AB?logo=php&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-3776AB?logo=git&color=black&logoColor=F03C2E&style=for-the-badge)
-![Java](https://img.shields.io/badge/java-F8981D?logo=java&logoColor=white&style=for-the-badge)
-![Dart](https://img.shields.io/badge/dart-F8981D?logo=dart&color=42A5F5&logoColor=white&style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
-![MySql](https://img.shields.io/badge/MySQL-00599C?logo=mysql&color=03526F&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-7F52FF?logo=firebase&logoColor=FCCA3F&color=3E4247&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+### ⚙️ Some Tools and Technologies I Use
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+#### Programming Languages
+[![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)](https://isocpp.org/)
+[![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)](https://www.oracle.com/java/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)](https://kotlinlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
+[![Dart](https://img.shields.io/badge/Dart-42A5F5?logo=dart&logoColor=white&style=for-the-badge)](https://dart.dev/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)](https://www.php.net/)
+
+#### Mobile Development
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)](https://www.android.com/)
+[![Flutter](https://img.shields.io/badge/Flutter-3178C6?logo=flutter&logoColor=white&style=for-the-badge)](https://flutter.dev/)
+
+#### Database
+[![MySQL](https://img.shields.io/badge/MySQL-00599C?logo=mysql&color=03526F&logoColor=white&style=for-the-badge)](https://www.mysql.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA3F?logo=firebase&logoColor=white&style=for-the-badge)](https://firebase.google.com/)
+
+#### Version Control
+[![Git](https://img.shields.io/badge/Git-F03C2E?logo=git&color=black&logoColor=white&style=for-the-badge)](https://git-scm.com/)
+
+#### Tools
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)](https://www.linux.org/)
+[![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)](https://code.visualstudio.com/)
 
 
 ---
-### My Stats Activity
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=toalhussein&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=23A9F2&icon_color=151515&text_color=151515&bg_color=FFFFFF" alt="toalhussein's Github Stats" /></a>
+### 🔥 Streak Stats Activity
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=toalhussein&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D" alt="toalhussein's GitHub Streak" />
+  </a>
+</p>
+
+
 
 ---
-
-### Streak Stats Activity
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=toalhussein&theme=default&text&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### 📊 My Stats Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=toalhussein&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="toalhussein's Github Stats" />
+</p>
 
 ---
-

@@ -37,9 +37,6 @@ I'm a **Student🎓 [@ Beni Suef Technological University 🅾️](https://btu.e
 
  void ambitions() {
   void learnSpanish() {}
-
-  void createUiccApp() {}
-
   }
 
 }

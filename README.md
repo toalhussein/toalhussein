@@ -90,7 +90,3 @@ I'm a **Student🎓 [@ Beni Suef Technological University 🅾️](https://btu.e
 </p>
 
 ---
-### ⌨️ Languages
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toalhussein&langs_count=8&layout=compact&theme=dark&hide=html,Tcl" />
-</p>

@@ -71,7 +71,7 @@ I'm a **Student🎓 [@ Beni Suef Technological University 🅾️](https://btu.e
 
 
 ---
-### 🔥 Streak Stats Activity
+### 📊 My Stats Activity
 <div>
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=toalhussein&theme=react" width="51%" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=toalhussein&layout=compact&show_icons=true&theme=react" alt="toalhussein github-readme-stats" width="48%" />
@@ -88,10 +88,6 @@ I'm a **Student🎓 [@ Beni Suef Technological University 🅾️](https://btu.e
 
 
 
----
-### 📊 My Stats Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toalhussein&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="toalhussein's Github Stats" />
-</p>
+
 
 ---
